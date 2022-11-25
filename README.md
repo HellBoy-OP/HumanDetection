@@ -54,6 +54,7 @@
 
 ## Guide
 - Clone this repository.
+    - `git clone https://github.com/HellBoy-OP/HumanDetection`
 - Install requirements using:
     - `pip install -r requirements.txt`
 - Run the main file:
@@ -68,7 +69,7 @@
 <br />
 
 ## Note
-- You can use different images just replace the image in root dir and rename it ot `image.jpg`
+- You can use different images just replace the image in root dir and rename it to `image.jpg`
 - Same way you can use different videos by replacing the video in root dir and renaming it to `video.mp4`
 - Python <=3.8 is recommended.
 
