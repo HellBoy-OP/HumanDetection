@@ -1,0 +1,3 @@
+flask
+imutils
+opencv-python
